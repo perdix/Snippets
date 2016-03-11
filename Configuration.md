@@ -5,7 +5,8 @@
 
 ```
 # Some git commands
-alias gstat='git status'
+alias gs='git status'
+alias gb='git branch'
 alias gc='git commit'
 alias gcm='git commit -m'
 alias ga='git add'
