@@ -5,6 +5,7 @@
 
 ```
 # Some git commands
+alias gch='git checkout'
 alias gs='git status'
 alias gb='git branch'
 alias gc='git commit'
